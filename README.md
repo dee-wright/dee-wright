@@ -6,7 +6,7 @@
 ![Static Badge](https://img.shields.io/badge/SQL-specialist-blue?logo=postgresql&logoColor=white&color=336791)
 ![Static Badge](https://img.shields.io/badge/Python-enthusiast-blue?logo=python&logoColor=white&color=ffd948)
 ![Static Badge](https://img.shields.io/badge/D%26D-CoS_DM-purple?logo=dungeonsanddragons&color=5e5ea5)
-![Static Badge](https://img.shields.io/badge/Archive_of_Our_Own-author-red?logo=archiveofourown&color=960100)
+![Static Badge](https://img.shields.io/badge/AO3-author-red?logo=archiveofourown&color=960100)
 
 # About Me
 Nerd of all trades with 20+ years of data-centric, multifaceted experience in the USMC, the Corps of Engineers, and across such diverse industries as retail, advertising sales operations support, billing & finance, and freelance graphic design.
